@@ -1,0 +1,108 @@
+section {
+  padding: 70px 0;
+}
+section h2.section-heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+section h3.section-subheading {
+  font-size: 16px;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 75px;
+}
+
+
+
+
+.slogan1 {
+  font-family: "Droid Serif" ;
+  font-size: 2em;
+  line-height: 100%;
+  margin-bottom: 10px;
+  font-weight: 100;
+  color: #0099da;
+}
+}
+.slogan1 > span {
+  color: #0099da;
+}
+.slogan {
+  font-family: "Lato", sans-serif;
+  font-size: 1.5em;
+  line-height: 150%;
+  margin-bottom: 50px;
+  font-weight: 300;
+}
+.slogan > span {
+  color: #0099da;
+}
+.form-group .glyphicon {
+  margin-top: 5px;
+
+
+
+}
+
+.carousel-control .icon-prev,
+.carousel-control .icon-next,
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .glyphicon-chevron-right {
+  position: absolute;
+  top: 50%;
+  z-index: 5;
+  display: inline-block;
+}
+.carousel-control .icon-prev,
+.carousel-control .glyphicon-chevron-left {
+  left: 50%;
+}
+.carousel-control .icon-next,
+.carousel-control .glyphicon-chevron-right {
+  right: 50%;
+}
+
+/* UI ELEMNTS PAGES */
+.bs-glyphicons-list {
+  padding-left: 0;
+  list-style: none;
+}
+.bs-glyphicons-list li {
+  float: left;
+  width: 25%;
+  height: 115px;
+  padding: 10px;
+  font-size: 10px;
+  line-height: 1.4;
+  text-align: center;
+  border: 1px solid #fff;
+  background-color: #f9f9f9;
+}
+.bs-glyphicons-list .glyphicon {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+.bs-glyphicons-list .glyphicon-class {
+  display: block;
+  text-align: center;
+  word-wrap: break-word;
+  /* Help out IE10+ with class names */
+}
+.bs-glyphicons-list li:hover {
+  color: #fff;
+  background-color: #0099da;
+}
+@media (min-width: 768px) {
+  .bs-glyphicons-list {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .bs-glyphicons-list li {
+    width: 12.5%;
+    font-size: 12px;
+  }
+}
