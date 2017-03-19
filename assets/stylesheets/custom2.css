@@ -14,15 +14,24 @@ section h3.section-subheading {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
+
+p {
+    font-size: 14px;
+    font-size: 1.9vw;
+
+}
+
+
 .headerbx{
-  height: 850px;
+  height: 800px;
 }
 
 .slogan1 {
   font-family: "Droid Serif" ;
   font-size: 2em;
   line-height: 100%;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-weight: 100;
   color: #0099da;
 }
@@ -103,3 +112,7 @@ section h3.section-subheading {
     font-size: 12px;
   }
 }
+
+.animation-delay-5 {
+  -webkit-animation-delay: .5s !important;
+  animation-delay: .5s !important;
