@@ -14,9 +14,9 @@ section h3.section-subheading {
   font-weight: 400;
   margin-bottom: 75px;
 }
-
-
-
+.headerbx{
+  height: 850px;
+}
 
 .slogan1 {
   font-family: "Droid Serif" ;
@@ -26,20 +26,17 @@ section h3.section-subheading {
   font-weight: 100;
   color: #0099da;
 }
-}
-.slogan1 > span {
-  color: #0099da;
-}
 .slogan {
-  font-family: "Lato", sans-serif;
+  font-family: "lato",  sans-serif;
   font-size: 1.5em;
-  line-height: 150%;
-  margin-bottom: 50px;
-  font-weight: 300;
+  line-height: 165%;
+  margin-bottom: 90px;
+  font-weight: 200;
 }
 .slogan > span {
   color: #0099da;
 }
+
 .form-group .glyphicon {
   margin-top: 5px;
 
