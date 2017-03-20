@@ -67,13 +67,6 @@ ul.social-buttons li a {
 }
 
 }
-agency.min.css:5
-a.active, a:active, a:focus, a:hover {
-    color: #00A3D9;
-}
-
-
-}
 
 .carousel-control .icon-prev,
 .carousel-control .icon-next,
@@ -133,4 +126,11 @@ a.active, a:active, a:focus, a:hover {
     width: 12.5%;
     font-size: 12px;
   }
+
+}
+
+.headerbx{
+  height: 680px;
+  width: 850px;
+
 }

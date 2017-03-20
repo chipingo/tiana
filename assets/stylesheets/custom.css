@@ -36,11 +36,6 @@ h6 {
   font-weight: 700;
 }
 
-}
-agency.min.css:5
-a.active, a:active, a:focus, a:hover {
-    color: #00A3D9;
-}
 
 
 
@@ -129,8 +124,8 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #00A3D9;
+  border-color: #00A3D9;
 }
 .btn-xl .badge {
   color: #00A3D9;
@@ -156,7 +151,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle {
   background-color: #00A3D9;
-  border-color: #fed136;
+  border-color: #00A3D9;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
