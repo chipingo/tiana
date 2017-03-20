@@ -34,7 +34,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #fec503;
+  color: #00A3D9;
 }
 h1,
 h2,
@@ -239,12 +239,12 @@ header {
 }
 header .intro-text {
   padding-top: 900px;
-  padding-bottom: 200px;
+  padding-bottom: 20px;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
-  font-size: 92px;
+  font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
 }
@@ -630,7 +630,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
   display: block;
-  background-color: #222222;
+  background-color: #00A3D9;
   height: 40px;
   width: 40px;
   border-radius: 100%;
@@ -645,7 +645,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: #00A3D9;
 }
 .btn:focus,
 .btn:active,

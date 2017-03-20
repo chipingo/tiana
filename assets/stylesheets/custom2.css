@@ -22,13 +22,13 @@ p {
 
 }
 
-
+}
 .headerbx{
-  height: 800px;
+  height: 850px;
 }
 
 .slogan1 {
-  font-family: "Droid Serif" ;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2em;
   line-height: 100%;
   margin-bottom: 20px;
@@ -49,6 +49,28 @@ p {
 .form-group .glyphicon {
   margin-top: 5px;
 
+}
+agency.min.css:5
+ul.social-buttons li a {
+    display: block;
+    background-color: #222;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    color: #fff;
+    outline: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+}
+agency.min.css:5
+a.active, a:active, a:focus, a:hover {
+    color: #00A3D9;
+}
 
 
 }
@@ -112,7 +134,3 @@ p {
     font-size: 12px;
   }
 }
-
-.animation-delay-5 {
-  -webkit-animation-delay: .5s !important;
-  animation-delay: .5s !important;
